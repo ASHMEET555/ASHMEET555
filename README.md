@@ -3,8 +3,9 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Ashmeet Singh Sandhu</span>!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=500&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast+%7C+Data+Science+Explorer;B.Tech+(CSE)+@+IIIT+Una+(2024–2028);Always+Learning+and+Building+Cool+Stuff!;Open+to+Internships+and+Collaborations!+🤝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=500&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast+%7C+Problem+Solver;Open+to+collaboration+%26+internships" alt="Typing SVG" />
 </p>
+
 
 ---
 
